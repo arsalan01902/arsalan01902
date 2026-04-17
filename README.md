@@ -263,10 +263,8 @@ Gamified clean-up platform — users upload dirty/clean location photos to earn 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsalan01902&bg_color=0a0f1e&color=60a5fa&line=3b82f6&point=ffffff&area_color=1d4ed8&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph"/>
 
 <br/>
-
-<img src="https://img.shields.io/badge/Contribution-Snake%20Trail-1d4ed8?style=flat-square&labelColor=0a0f1e"/>
-
 <br/><br/>
+<img src="https://img.shields.io/badge/Contribution-Snake%20Trail-1d4ed8?style=flat-square&labelColor=0a0f1e"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arsalan01902/arsalan01902/output/github-snake-dark.svg"/>
@@ -274,7 +272,7 @@ Gamified clean-up platform — users upload dirty/clean location photos to earn 
   <img alt="github-snake" src="https://raw.githubusercontent.com/arsalan01902/arsalan01902/output/github-snake.svg" width="100%"/>
 </picture>
 
-> ⚙️ *Set up snake via GitHub Actions — [Guide →](https://github.com/Platane/snk)*
+
 
 <br/>
 
@@ -338,9 +336,7 @@ Gamified clean-up platform — users upload dirty/clean location photos to earn 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       CODING MODE                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
 
 
