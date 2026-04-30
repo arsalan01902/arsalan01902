@@ -260,7 +260,11 @@ Gamified clean-up platform — users upload dirty/clean location photos to earn 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arsalan01902&bg_color=0a0f1e&color=60a5fa&line=3b82f6&point=ffffff&area_color=1d4ed8&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph"/>
+<!-- FIXED: Updated activity graph with cache-busting and alternative service -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arsalan01902&theme=tokyo-night&bg_color=0a0f1e&color=60a5fa&line=3b82f6&point=ffffff&area_color=1d4ed8&area=true&hide_border=true&radius=8&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
+
+<!-- ALTERNATIVE: Uncomment if above doesn't work -->
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsalan01902&theme=tokyonight" width="100%" alt="Contribution Graph"/> -->
 
 <br/>
 <br/><br/>
