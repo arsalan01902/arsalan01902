@@ -249,13 +249,13 @@ clean-up platform — users upload dirty/clean location photos to earn points. A
 <br/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Contribution-Snake%20Trail-1d4ed8?style=flat-square&labelColor=0a0f1e"/>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arsalan01902/arsalan01902/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arsalan01902/arsalan01902/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arsalan01902/arsalan01902/output/github-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arsalan01902/arsalan01902/output/github-snake-dark.svg?v=20260520"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arsalan01902/arsalan01902/output/github-snake.svg?v=20260520"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arsalan01902/arsalan01902/output/github-snake.svg?v=20260520" width="100%"/>
 </picture>
 
+<!-- Last updated: May 20, 2026 -->
 
 
 <br/>
