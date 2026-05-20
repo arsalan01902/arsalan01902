@@ -162,13 +162,7 @@ Last Push : April 17, 2026
 
 <div align="center">
 
-### 🔗 &nbsp;Web & PWA
-
-<p>
-  <img src="https://img.shields.io/badge/PWA-0f172a?style=for-the-badge&logo=pwa&logoColor=5A0FC8"/>
-  <img src="https://img.shields.io/badge/Formspree-0f172a?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge&logo=fastapi&logoColor=3B82F6"/>
-</p>
+### 🔗 &nbsp;Mern Stack & Cloud Devops
 
 </div>
 
@@ -221,7 +215,7 @@ Professional services website for PrimeGulfCo. Clean, modern UI delivering a pol
 ### ♻️ &nbsp;CleanEarth App
 > *Full Stack PWA*
 
-Gamified clean-up platform — users upload dirty/clean location photos to earn points. Admin & super-admin dashboards, dark/light mode, custom color picker, full PWA support.
+clean-up platform — users upload dirty/clean location photos to earn points. Admin & super-admin dashboards, dark/light mode, custom color picker, full PWA support.
 
 **Stack:**&nbsp;
 `MERN Stack` `PWA` `JWT` `Tailwind CSS`
@@ -247,24 +241,10 @@ Gamified clean-up platform — users upload dirty/clean location photos to earn 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0f1e,60:0d1f3c,100:0a0f1e&height=95&text=Performance+Dashboard&fontSize=28&fontColor=60bfff&fontAlignY=48&desc=Stats+%E2%80%A2+Streaks+%E2%80%A2+Languages+%E2%80%A2+Activity&descAlignY=70&descSize=13&descColor=93c5fd&animation=fadeIn&stroke=1d4ed8&strokeWidth=2" width="100%"/>
-
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=arsalan01902&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0a0f1e&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&border_radius=12" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan01902&theme=tokyonight&hide_border=true&layout=compact&bg_color=0a0f1e&title_color=60a5fa&text_color=cbd5e1&border_radius=12&langs_count=8" height="180" alt="Top Languages"/>
-
 <br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=arsalan01902&theme=tokyonight&hide_border=true&background=0a0f1e&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=cbd5e1&dates=64748b&border_radius=12" alt="GitHub Streak" width="680"/>
-
-<br/><br/>
-
 <!-- FIXED: Updated activity graph with cache-busting and alternative service -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsalan01902&theme=tokyo-night&bg_color=0a0f1e&color=60a5fa&line=3b82f6&point=ffffff&area_color=1d4ed8&area=true&hide_border=true&radius=8&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
-
-<!-- ALTERNATIVE: Uncomment if above doesn't work -->
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsalan01902&theme=tokyonight" width="100%" alt="Contribution Graph"/> -->
 
 <br/>
 <br/><br/>
