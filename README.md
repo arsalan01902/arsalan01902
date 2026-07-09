@@ -1,80 +1,85 @@
 <div align="center">
-<pre>
-█████╗ ██████╗ ███████╗ █████╗ ██╗      █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██╔════╝██╔══██╗██║     ██╔══██╗████╗  ██║
-███████║██████╔╝███████╗███████║██║     ███████║██╔██╗ ██║
-██╔══██║██╔══██╗╚════██║██╔══██║██║     ██╔══██║██║╚██╗██║
-██║  ██║██║  ██║███████║██║  ██║███████╗██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-</pre>
-<h3 align="center">
-MERN Stack Developer | Cloud & DevOps Engineer
-</h3>
-<br/><br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1f3c,100:0a0f1e&height=200&section=header&text=Muhammad%20Arsalan&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;Cloud+%26+DevOps+Engineering;MERN+%7C+Next.js+%7C+AWS+%7C+Docker;Turning+Ideas+Into+Production+Products" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Muhammad%20Arsalan&fontSize=48&fontColor=e6edf3&fontAlignY=42&animation=fadeIn" width="100%" />
+
+<h3>MERN Stack Developer &nbsp;·&nbsp; Cloud &amp; DevOps Engineer</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=650&lines=Building+scalable+full+stack+applications;Cloud+%26+DevOps+engineering;MERN+%7C+Next.js+%7C+AWS+%7C+Docker" alt="Typing SVG" />
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Available%20Remotely%20-1d4ed8?style=flat-square&logo=checkmarx&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-MERN%20%2B%20Cloud%20%2F%20DevOps-1e3a5f?style=flat-square&logo=react&logoColor=60a5fa"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Pakistan-1e3a5f?style=flat-square&logo=googlemaps&logoColor=60a5fa"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Updated-April%202026-1e3a5f?style=flat-square&logo=github&logoColor=60a5fa"/>
-</p>
+<img src="https://img.shields.io/badge/Open%20to%20Work-30363d?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Based%20in-Pakistan-30363d?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Focus-MERN%20%2B%20Cloud%2FDevOps-30363d?style=flat-square&labelColor=161b22"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## About
+
+```yaml
+Name      : Muhammad Arsalan
+Role      : MERN Stack Developer · Cloud & DevOps Engineer
+Location  : Pakistan
+Email     : arsalan01902@gmail.com
+LinkedIn  : muhammad-arsalan-441173378
+GitHub    : arsalan01902
+Status    : Open to work
+```
+
+I build full stack web applications end to end — from the interface down to the infrastructure that runs it. Currently deepening my AWS and Docker skills to ship products that scale cleanly in production.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1e,50:0d1f3c,100:0a0f1e&height=100&text=About+Me&fontSize=32&fontColor=ffffff&fontAlignY=50&desc=The+Developer+Behind+The+Code&descAlignY=74&descSize=14&descColor=60a5fa&animation=fadeIn&stroke=1d4ed8&strokeWidth=2" width="100%"/>
+<a href="mailto:arsalan01902@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=e6edf3"/></a>
+<a href="https://linkedin.com/in/muhammad-arsalan-441173378"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=e6edf3"/></a>
+<a href="https://github.com/arsalan01902"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=e6edf3"/></a>
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%7C+Cloud+%26+DevOps+Engineer+%7C+Pakistan;arsalan01902%40gmail.com" alt="identity sub"/>
+## Tech Stack
 
-<br/><br/>
-
-<table border="0" align="center">
+<table width="100%">
 <tr>
-<td align="left" width="50%">
+<td valign="top" width="50%">
 
-```yaml
-Name     : Muhammad Arsalan
-Role     : MERN Stack + Cloud/DevOps Engineer
-Location : Pakistan
-Email    : arsalan01902@gmail.com
-LinkedIn : muhammad-arsalan-441173378
-GitHub   : arsalan01902
-Status   : Open to Work
-```
+**Frontend**
+
+![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=8B949E)
+![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=next.js&logoColor=8B949E)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=8B949E)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=8B949E)
+![Tailwind](https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwind-css&logoColor=8B949E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-161b22?style=flat-square&logo=bootstrap&logoColor=8B949E)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=8B949E)
+![Express](https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=8B949E)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
+![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=8B949E)
+![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=8B949E)
 
 </td>
-<td align="left" width="50%">
+<td valign="top" width="50%">
 
-```yaml
-Currently : Shipping Full Stack Apps
-Learning  : AWS × Docker × DevOps
-Superpower: Fast Learner, Adapts Quickly
-Mission   : Apps That Scale & Perform
-Ask Me    : React | Node | Docker | AWS
-Last Push : April 17, 2026
-```
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazon-aws&logoColor=8B949E)
+![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=8B949E)
+![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=8B949E)
+![Nginx](https://img.shields.io/badge/Nginx-161b22?style=flat-square&logo=nginx&logoColor=8B949E)
+![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=8B949E)
+
+**Tools**
+
+![Figma](https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=8B949E)
+![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=8B949E)
+![Postman](https://img.shields.io/badge/Postman-161b22?style=flat-square&logo=postman&logoColor=8B949E)
+![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=flat-square&logo=visual-studio-code&logoColor=8B949E)
 
 </td>
 </tr>
@@ -82,267 +87,86 @@ Last Push : April 17, 2026
 
 <br/>
 
-<a href="mailto:arsalan01902@gmail.com">
-  <img src="https://img.shields.io/badge/Email-arsalan01902%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/muhammad-arsalan-441173378">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## Featured Projects
 
-<br/><br/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0d1f3c,100:0a0f1e&height=80&text=Tech+Arsenal&fontSize=32&fontColor=60bfff&fontAlignY=55&desc=Languages+%E2%80%A2+Frameworks+%E2%80%A2+Tools+%E2%80%A2+Cloud&descAlignY=80&descSize=13&descColor=93c5fd&animation=fadeIn&stroke=1d4ed8&strokeWidth=2" width="100%"/>
-
-</div>
-
-<table align="center" width="100%">
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td width="33%" valign="top">
 
-### 🌐 &nbsp;Frontend
+**Clinic Landing Page**
+<br/>
+<sub>Next.js · TypeScript</sub>
 
-<p>
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3B82F6"/>
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=7C3AED"/>
-  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-</p>
+Fully responsive clinic landing page with contact form integration via Formspree. Pixel-perfect across screen sizes.
 
-### 🔧 &nbsp;Backend & Database
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=6DA55F"/>
-  <img src="https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3B82F6"/>
-  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=4ea94b"/>
-  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-### ☁️ &nbsp;Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=0db7ed"/>
-  <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=009639"/>
-  <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
-### 🛠️ &nbsp;Tools & Design
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05033"/>
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"/>
-</p>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🔗 &nbsp;Mern Stack & Cloud Devops
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0f1e,50:0d1f3c,100:0a0f1e&height=90&text=Featured+Projects&fontSize=32&fontColor=60bfff&fontAlignY=50&desc=Crafted+With+Passion+%E2%80%A2+Shipped+With+Precision&descAlignY=74&descSize=13&descColor=93c5fd&animation=fadeIn&stroke=1d4ed8&strokeWidth=2" width="100%"/>
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-
-<td valign="top" width="33%">
-<div align="center">
-
-### 🏥 &nbsp;Clinic Landing Page
-> *Next.js · TypeScript*
-
-Fully responsive clinic landing page with seamless contact form integration via Formspree. Pixel-perfect across all screen sizes.
-
-**Stack:**&nbsp;
 `Next.js` `TypeScript` `Tailwind CSS` `Formspree`
 
-</div>
 </td>
+<td width="33%" valign="top">
 
-<td valign="top" width="33%">
-<div align="center">
+**PrimeGulfCo Website**
+<br/>
+<sub>React · Fully Responsive</sub>
 
-### 🏢 &nbsp;PrimeGulfCo Website
-> *React · Fully Responsive*
+Professional services website with a clean, modern UI delivering a polished brand experience across devices.
 
-Professional services website for PrimeGulfCo. Clean, modern UI delivering a polished brand experience across all devices.
-
-**Stack:**&nbsp;
 `React` `JavaScript` `Tailwind CSS` `CSS3`
 
-</div>
 </td>
+<td width="33%" valign="top">
 
-<td valign="top" width="33%">
-<div align="center">
+**CleanEarth App**
+<br/>
+<sub>Full Stack PWA</sub>
 
-### ♻️ &nbsp;CleanEarth App
-> *Full Stack PWA*
+Clean-up platform where users upload before/after photos to earn points. Includes admin dashboards, dark/light mode, and full PWA support.
 
-clean-up platform — users upload dirty/clean location photos to earn points. Admin & super-admin dashboards, dark/light mode, custom color picker, full PWA support.
-
-**Stack:**&nbsp;
 `MERN Stack` `PWA` `JWT` `Tailwind CSS`
 
-</div>
 </td>
-
 </tr>
 </table>
 
-<div align="center">
+<div align="center"><sub>More projects in progress.</sub></div>
 
-> 💡 *More projects dropping soon — stay tuned!*
+<br/>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0f1e,60:0d1f3c,100:0a0f1e&height=95&text=Performance+Dashboard&fontSize=28&fontColor=60bfff&fontAlignY=48&desc=Stats+%E2%80%A2+Streaks+%E2%80%A2+Languages+%E2%80%A2+Activity&descAlignY=70&descSize=13&descColor=93c5fd&animation=fadeIn&stroke=1d4ed8&strokeWidth=2" width="100%"/>
-<br/>
-<br/><br/>
-<!-- FIXED: Updated activity graph with cache-busting and alternative service -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arsalan01902&theme=tokyo-night&bg_color=0a0f1e&color=60a5fa&line=3b82f6&point=ffffff&area_color=1d4ed8&area=true&hide_border=true&radius=8&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arsalan01902&theme=github-compact&bg_color=0d1117&color=8B949E&line=6e7681&point=e6edf3&area_color=161b22&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph"/>
 
-<br/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Contribution-Snake%20Trail-1d4ed8?style=flat-square&labelColor=0a0f1e"/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arsalan01902/arsalan01902/output/github-snake-dark.svg?v=20260520"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arsalan01902/arsalan01902/output/github-snake.svg?v=20260520"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/arsalan01902/arsalan01902/output/github-snake.svg?v=20260520" width="100%"/>
 </picture>
 
-<!-- Last updated: May 20, 2026 -->
-
+</div>
 
 <br/>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  TROPHIES & ACHIEVEMENTS                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## Achievements
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0a0f1e,50:0d1f3c,100:0a0f1e&height=105&text=Hall+of+Achievements&fontSize=28&fontColor=60bfff&fontAlignY=50&desc=Milestones+%E2%80%A2+Trophies+%E2%80%A2+Badges&descAlignY=72&descSize=13&descColor=93c5fd&animation=fadeIn&stroke=1d4ed8&strokeWidth=2" width="100%"/>
-
-<br/>
-
-<!-- FIXED: swapped shared github-profile-trophy.vercel.app (returning 402 quota errors) for the actively maintained github-trophies fork -->
-<img src="https://github-trophies.vercel.app/?username=arsalan01902&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Active%20Coder-Consistent%20Contributions-1d4ed8?style=flat-square&labelColor=0a0f1e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Web-MERN%20Stack-1e3a5f?style=flat-square&labelColor=0a0f1e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Cloud%20Engineer-AWS%20%26%20DevOps-1e3a5f?style=flat-square&labelColor=0a0f1e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Fast%20Learner-Adapts%20%26%20Delivers-1e3a5f?style=flat-square&labelColor=0a0f1e"/>
-
-<br/><br/>
+<img src="https://github-trophies.vercel.app/?username=arsalan01902&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      SOCIAL LINKS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0f1e,50:0d1f3c,100:0a0f1e&height=90&text=Let%27s+Connect&fontSize=34&fontColor=60bfff&fontAlignY=50&desc=LinkedIn+%E2%80%A2+Gmail+%E2%80%A2+GitHub&descAlignY=74&descSize=13&descColor=93c5fd&animation=fadeIn&stroke=1d4ed8&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%"/>
 
-<br/>
-
-<a href="https://linkedin.com/in/muhammad-arsalan-441173378" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/arsalan01902" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-arsalan01902-1e3a5f?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:arsalan01902@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-arsalan01902-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=arsalan01902&style=flat-square&color=30363d&label=Profile+Views&base=1200" alt="Profile Views"/>
 
 <br/><br/>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1f3c,100:0a0f1e&height=120&section=footer" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=arsalan01902&style=flat-square&color=1d4ed8&label=Profile+Views&base=1200" alt="Profile Views"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Feel+free+to+star+any+repo+%E2%98%85;Let%27s+build+something+great+together." alt="Footer typing" />
-
-<br/>
-
-<sub><i>Crafted by <b>Muhammad Arsalan</b> — MERN Stack Developer & Cloud/DevOps Engineer · April 2026</i></sub>
+<sub>Crafted by <b>Muhammad Arsalan</b> — MERN Stack Developer &amp; Cloud/DevOps Engineer</sub>
 
 </div>
