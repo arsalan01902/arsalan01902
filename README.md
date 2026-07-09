@@ -274,7 +274,8 @@ clean-up platform — users upload dirty/clean location photos to earn points. A
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arsalan01902&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+<!-- FIXED: swapped shared github-profile-trophy.vercel.app (returning 402 quota errors) for the actively maintained github-trophies fork -->
+<img src="https://github-trophies.vercel.app/?username=arsalan01902&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
 
 <br/><br/>
 
